@@ -1,0 +1,13 @@
+﻿  ActionAddCourse.cpp
+  Course.cpp
+  Drawable.cpp
+  GUI.cpp
+C:\Users\5270g6\Desktop\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(95,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\5270g6\Desktop\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(96,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\5270g6\Desktop\SPOT - CIE202 Project Code Framework\SPOT\GUI\GUI.cpp(97,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Main.cpp
+  Registrar.cpp
+  AcademicYear.cpp
+  StudyPlan.cpp
+  Generating Code...
+  SPOT.vcxproj -> C:\Users\5270g6\Desktop\SPOT - CIE202 Project Code Framework\x64\Debug\SPOT.exe
